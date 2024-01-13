@@ -1,0 +1,26 @@
+
+/* CSS file */
+/* This file contains Style Classes for each type of button */
+
+
+/*This style class is for the light grey top buttons*/
+.top-buttons{
+-fx-background-color: #d4d4d2;
+-fx-text-fill: black;
+-fx-font-weight: bold;
+}
+
+/*This style class is for the dark middle number buttons*/
+.middle-buttons{
+-fx-background-color:  #505050;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+}
+
+
+/*This style class is for the orange buttons on the right*/
+.right-buttons{
+-fx-background-color:   #ff9500;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+}
